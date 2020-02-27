@@ -1,0 +1,3 @@
+/Users/sharp/Desktop/CS 002/Chapter 2/Practice Programs/P4-chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sharp/Desktop/CS 002/Chapter 2/Practice Programs/P4-chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sharp/Desktop/CS 002/Chapter 2/Practice Programs/P4-chat/cmake-build-debug/CMakeFiles/P4_chat.dir
